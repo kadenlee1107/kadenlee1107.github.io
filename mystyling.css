@@ -55,3 +55,7 @@
     font-size: 1.25em;
     margin-top: 0.25em;
 }
+
+body {
+    background-color: lightblue;
+  }
